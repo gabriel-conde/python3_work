@@ -62,3 +62,10 @@ print(f"{inactive_user.title()} is an inactive user.")
 # the sort method sorts the values of a list in alphabetical order
 users.sort()
 print(users)
+
+# looping through a list
+magicians = ['alice', 'david', 'carolina', 'luis', 'Juan']
+for magician in magicians:
+    print(magician)
+
+# looping through a list of superheroes
