@@ -67,5 +67,3 @@ print(users)
 magicians = ['alice', 'david', 'carolina', 'luis', 'Juan']
 for magician in magicians:
     print(magician)
-
-# looping through a list of superheroes
